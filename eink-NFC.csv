@@ -1,0 +1,23 @@
+Id;Designator;Footprint;Quantity;Quantity * 5;Designation;link
+1;ANT1;NFCANT_25X15;1;5;HF(NFC) 13,56MHz;
+2;C4,C15,C1;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;3;15;100nF;https://www.mouser.pl/ProductDetail/KYOCERA-AVX/08053C104KAT2A?qs=EihRZLdKnF2GcTBzDkE%2FiQ%3D%3D
+3;S1;PTS636SM43LFS;1;5;PTS636_SM43_LFS;https://www.mouser.pl/ProductDetail/CK/PTS636-SM43-LFS?qs=sGAEpiMZZMtFyPk3yBMYYABeDmB1IAsALuMw2%252BITW5U%3D
+4;J2;PinSocket_1x08_P2.54mm_Vertical;1;5;Conn_01x08_Pin;
+5;BT1;SMTU2032LF;1;5;CR2032 socket;https://www.mouser.pl/ProductDetail/Renata/SMTU2032-LF?qs=r1PAtlylphCLeXbokB9Tog%3D%3D
+6;L1;L_Bourns-SRN4018;1;5;68uH;https://www.mouser.pl/ProductDetail/TAIYO-YUDEN/NRS4018T680MDGJ?qs=n9x0KibC1X0RpBbYAuOVhw%3D%3D
+7;C12,C7,C13,C6,C10,C3,C9,C14,C8,C5,C2,C11;C_0805_2012Metric_Pad1.18x1.45mm_HandSolder;12;60;4.7uF/50V;https://www.mouser.pl/ProductDetail/Murata-Electronics/GRM21BR61H475ME51L?qs=eeBpzGFlv%252B%2Fg0wAeHy0eJw%3D%3D
+8;R4,R5,R6,R1;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;4;20;10k;https://www.mouser.pl/ProductDetail/Vishay-Dale/CRCW080510K0FKEA?qs=LOX6nxTstiZjDFtI%2F0c8Lw%3D%3D
+9;J3;100519222410ELF;1;5;CONNECTOR_FFC_Eink_10051922-2410ELF;https://www.mouser.pl/ProductDetail/Amphenol-FCI/10051922-2410ELF?qs=UB9wU2EYlYTKxxyXJqfrLg%3D%3D
+10;R7;R_1206_3216Metric_Pad1.30x1.75mm_HandSolder;1;5;50m;https://www.mouser.pl/ProductDetail/Wurth-Elektronik/560050332001?qs=eP2BKZSCXI7YfUpVQUlTOw%3D%3D
+11;D3,D1,D2;D_SOD-123;3;15;MBR0530;https://www.mouser.pl/ProductDetail/Micro-Commercial-Components-MCC/MBR0530-TP?qs=KFo7JewZbUECRHkxGanrdg%3D%3D
+12;Q1;SOT-323_SC-70_Handsoldering;1;5;SI138BDL;https://www.mouser.pl/ProductDetail/Vishay-Semiconductors/SI1308EDL-T1-GE3?qs=bX1%252BNvsK%2FBramh9tgpOaEw%3D%3D
+13;F1;Fuse_1206_3216Metric_Pad1.42x1.75mm_HandSolder;1;5;Fuse;https://www.mouser.pl/ProductDetail/Bel-Fuse/C1Q-250?qs=MvPYbBWWJyu%252B1pl0MYw7sQ%3D%3D
+14;CR1;SMA_STM;1;5;STPS1L30A;https://www.mouser.pl/ProductDetail/STMicroelectronics/STPS1L30A?qs=46HR8ipXVSuHYAtVpcwRVg%3D%3D
+15;JP1;SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm;1;5;SolderJumper_2_Open;
+16;U1;LQFP-48_7x7mm_P0.5mm;1;5;STM32L053C8Tx;https://www.mouser.pl/ProductDetail/STMicroelectronics/STM32L053C8T6?qs=s5SkPsIz108AIYM%252Bq2UIUg%3D%3D
+17;R3;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;5;510;https://www.mouser.pl/ProductDetail/Vishay-Dale/CRCW0805510RJNEA?qs=r9eRdsXhpKpSqSt0wAHK2A%3D%3D
+18;C16;CP_Elec_4x5.4;1;5;10uF;https://www.mouser.pl/ProductDetail/Cornell-Dubilier-CDE/ATB106M025?qs=sGAEpiMZZMsh%252B1woXyUXj84F6JVtj6mg2xtlsmjZ1VM%3D
+19;TP1;TestPoint_Pad_D3.0mm;1;5;I+;
+20;R2;R_0805_2012Metric_Pad1.20x1.40mm_HandSolder;1;5;3R;https://www.mouser.pl/ProductDetail/Vishay-Dale/CRCW08053R00FKEA?qs=GUnLQdvhANhn5YaaDybYng%3D%3D
+21;TP2;TestPoint_Pad_D3.0mm;1;5;I-;
+22;RF1;TSSOP-8_3x3mm_P0.65mm;1;5;ST25DV16K;https://www.mouser.pl/ProductDetail/STMicroelectronics/ST25DV16K-IER6S3?qs=xjeEZJU9OeM0qH1YVuTZgg%3D%3D

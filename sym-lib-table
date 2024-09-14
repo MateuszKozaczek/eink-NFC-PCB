@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ul_STPS1L30A")(type "KiCad")(uri "D:/magisterka/projekt płytki/części/libraries/KiCADv6/2023-06-27_15-22-45.kicad_sym")(options "")(descr ""))
+  (lib (name "ST25DV lib")(type "KiCad")(uri "D:/magisterka/projekt płytki/proto/Adafruit-ST25DV16-PCB-main/Adafruit ST25DV16/Adafruit ST25DV16-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "CONN_FFC_0051922-2410ELF")(type "KiCad")(uri "D:/magisterka/projekt płytki/części/10051922-2410ELF/KiCad/10051922-2410ELF.kicad_sym")(options "")(descr ""))
+  (lib (name "PTS636_SM43_LFS")(type "KiCad")(uri "D:/magisterka/projekt płytki/części/PTS636_SM43_LFS/KiCad/PTS636_SM43_LFS.kicad_sym")(options "")(descr ""))
+)
